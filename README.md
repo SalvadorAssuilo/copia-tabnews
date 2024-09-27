@@ -1,2 +1,3 @@
 # copia-tabnews
-Implementação do Tabenews para treinar programação 
+
+Implementação do Tabenews para treinar programação
